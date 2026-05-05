@@ -1,22 +1,31 @@
 <!-- HERO SECTION -->
 <h1 align="center">Hi 👋, I'm Kowser Ahmed</h1>
-<h3 align="center">💻 Web Developer | 🎨 UI/UX Designer | 🚀 Digital Product Builder</h3>
+<h3 align="center"> 🎨 UI/UX Designer | 🚀 Digital Product Builder | 🔥 Ai Powered Design Specialist </h3>
 
 <p align="center">
   I design and develop high-performance websites, custom web apps, and modern UI/UX experiences that help businesses grow.
 </p>
 
 <p align="center">
-  <a href="https://kowser.online"><strong>🌐 Visit My Portfolio</strong></a> •
-  <a href="mailto:your@email.com">📩 Hire Me</a> •
-  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a>
+  <a href="https://kowser.online">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/yourprofile">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  <a href="https://wa.me/8801XXXXXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
----
+
 
 ## 🧠 About Me
 - 🔥 I build **conversion-focused websites & applications**
-- 🎯 متخصص in **UI/UX design with performance-first development**
+- 🎯 in **UI/UX design with performance-first development**
 - 💼 Helping startups & businesses create **scalable digital products**
 - 🌍 Based in Bangladesh, working worldwide
 
