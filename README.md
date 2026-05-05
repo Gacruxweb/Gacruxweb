@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
-<h1 align="left">Hi 👋, I'm Kowser Ahmed</h1>
-<h3 align="left"> 🎨 UI/UX Designer | 🚀 Digital Product Builder | 🔥 Ai Powered Design Specialist </h3>
+<h2 align="left">Hi 👋, I'm Kowser Ahmed</h2>
+<h4 align="left"> 🎨 UI/UX Designer | 🚀 Digital Product Builder | 🔥 Ai Powered Design Specialist </h4>
 
 <p align="left">
   I design and develop high-performance websites, custom web apps, and modern UI/UX experiences that help businesses grow.
@@ -24,7 +24,8 @@
   </a>
 </p>
 
-<h2 align="left">🧠 About Me</h2>
+
+<h3 align="left">🧠 About Me</h3>
 
 <div style="display:flex; gap:10px; flex-wrap:wrap;">
   <p align="left">
@@ -48,7 +49,7 @@
 </p>
 
 
-## 💼 Featured Projects
+<h3 align="left">💼 Featured Projects</h3>
 <a href="YOUR_LINK_HERE">
   <img src="https://img.shields.io/badge/YOUR_TEXT_kowser-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
 </a>
