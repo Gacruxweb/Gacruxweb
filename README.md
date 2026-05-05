@@ -53,6 +53,54 @@
 <a href="https://kowser.online/">
   <img src="https://img.shields.io/badge/Windows_xp_-Portfolio-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
 </a>
+<a href="https://siegecode.com/">
+  <img src="https://img.shields.io/badge/SiegeCode-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
+<a href="https://hrm-five-nu.vercel.app/">
+  <img src="https://img.shields.io/badge/HRM System-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
+<a href="https://super-shop-ams.vercel.app/">
+  <img src="https://img.shields.io/badge/Accounts management system-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
+<a href="https://kazizafor.com/">
+  <img src="https://img.shields.io/badge/Kazi_zafor-portfolio-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
+<a href="https://jamanabd.com/">
+  <img src="https://img.shields.io/badge/Multi_Vendor_Ecommerce-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
+<a href="https://doctoranwar.com/">
+  <img src="https://img.shields.io/badge/Doctor_Anwar-portfolio-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
+<a href="https://jamanagroup.com/">
+  <img src="https://img.shields.io/badge/Group of company Website-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
+<a href="https://nusheba.com/">
+  <img src="https://img.shields.io/badge/nu sheba-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
+<a href="https://www.figma.com/design/nAOTsTdospFKjnn3UMFXzm/BiolinkV3?node-id=1501-30043&t=WRQTYkrtQlBqJEcb-1">
+  <img src="https://img.shields.io/badge/Biolink-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
+<a href="https://tcb.global/">
+  <img src="https://img.shields.io/badge/tcb global-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
+<a href="https://allcalculator.cloud/">
+  <img src="https://img.shields.io/badge/Cloud Calculators-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
+<a href="https://pricelytic-ai.vercel.app/">
+  <img src="https://img.shields.io/badge/Pricelytic ai-On going-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
+<a href="https://jamanasupershop.xyz/">
+  <img src="https://img.shields.io/badge/Super_shop_Management_system-On going-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
+
+
+
+
+
+
+
+
+
 
  
 <!-- <br/> 
