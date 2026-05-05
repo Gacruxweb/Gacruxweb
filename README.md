@@ -6,6 +6,7 @@
   I design and develop high-performance websites, custom web apps, and modern UI/UX experiences that help businesses grow.
 </p>
 
+<!-- Start Contact Info -->
 <p align="left">
   <a href="https://kowser.online">
     <img src="https://img.shields.io/badge/Website-FF6A00?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -23,8 +24,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+<!-- End Contact Info -->
 
-
+<!-- Start Avout Me -->
 <h3 align="left">🧠 About Me</h3>
 
 <div style="display:flex; gap:10px; flex-wrap:wrap;">
@@ -47,8 +49,9 @@
   <img src="https://img.shields.io/badge/Framer-dc2626?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Wix-1e293b?style=for-the-badge&logo=wix&logoColor=white" />
 </p>
+<!-- End Avout Me -->
 
-
+<!-- Start Colourfull Project Section -->
 <h3 align="left">💼 Featured Projects</h3>
 <a href="https://kowser.online/">
   <img src="https://img.shields.io/badge/Windows_xp_-Portfolio-2563eb?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
@@ -97,7 +100,7 @@
   <img src="https://img.shields.io/badge/Super_shop_Management_system-9f1239?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
 </a>
 
-
+<!-- End Colourfull Project Section -->
 
 
 
@@ -107,7 +110,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
 </p> -->
 
-
+<!-- Start Line Project Section -->
 <!-- <h3 align="left">💼 Featured Projects</h3>
 
 ###### [Windows XP Portfolio](https://kowser.online/):Personal portfolio website showcasing your work, skills, and services
@@ -129,11 +132,11 @@
 ###### [Pricelytic AI](https://pricelytic-ai.vercel.app/): AI-based pricing analysis tool for smarter decision making
 ###### [Super Shop Management System](https://jamanasupershop.xyz/): Complete retail management system for sales, inventory, and operations
  -->
+<!-- End Line Project Section -->
 
 
 
-
-
+<!-- Start name only Project Section -->
 <!-- <h3 align="left">💼 Featured Projects</h3>
 
 [Windows XP Portfolio](https://kowser.online/)
@@ -155,12 +158,14 @@
 [Pricelytic AI](https://pricelytic-ai.vercel.app/)
 [Super Shop Management System](https://jamanasupershop.xyz/) -->
 
+<!-- End name only Project Section -->
 
 
 
 
 
 
+<!-- Start small badge Project Section -->
 
 
 <!-- <h3 align="left">💼 Featured Projects</h3>
@@ -211,8 +216,7 @@
   <img src="https://img.shields.io/badge/Super_shop_Management_system-ffffff?"/>
 </a> -->
 
-
-
+<!-- Start small badge Project Section -->
 
 
 
