@@ -50,8 +50,8 @@
 
 
 <h3 align="left">💼 Featured Projects</h3>
-<a href="YOUR_LINK_HERE">
-  <img src="https://img.shields.io/badge/YOUR_TEXT_kowser-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+<a href="https://kowser.online/">
+  <img src="https://img.shields.io/badge/Windows_xp_-Portfolio-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
 </a>
 
  
