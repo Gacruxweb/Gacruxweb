@@ -89,7 +89,6 @@
 
 
 
-
 <h3 align="left">🛩️ Current Projects</h3>
 <a href="https://pricelytic-ai.vercel.app/">
   <img src="https://img.shields.io/badge/Pricelytic_ai-065f46?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
@@ -130,4 +129,106 @@
 ###### [Pricelytic AI](https://pricelytic-ai.vercel.app/): AI-based pricing analysis tool for smarter decision making
 ###### [Super Shop Management System](https://jamanasupershop.xyz/): Complete retail management system for sales, inventory, and operations
  -->
+
+
+
+
+
+<!-- <h3 align="left">💼 Featured Projects</h3>
+
+[Windows XP Portfolio](https://kowser.online/)
+[SiegeCode](https://siegecode.com/)
+[HRM System](https://hrm-five-nu.vercel.app/)
+[Accounts Management System](https://super-shop-ams.vercel.app/)
+[Kazi Zafor Portfolio](https://kazizafor.com/)
+[Multi Vendor Ecommerce](https://jamanabd.com/)
+[Doctor Anwar Portfolio](https://doctoranwar.com/)
+[Group of Company Website](https://jamanagroup.com/)
+[Nu Sheba](https://nusheba.com/)
+[Biolink](https://www.figma.com/design/nAOTsTdospFKjnn3UMFXzm/BiolinkV3?node-id=1501-30043&t=WRQTYkrtQlBqJEcb-1/)
+[TCB Global](https://tcb.global/)
+[Cloud Calculators](https://allcalculator.cloud/)
+
+
+<h3 align="left">🛩️ Current Projects</h3>
+
+[Pricelytic AI](https://pricelytic-ai.vercel.app/)
+[Super Shop Management System](https://jamanasupershop.xyz/) -->
+
+
+
+
+
+
+
+
+
+<!-- <h3 align="left">💼 Featured Projects</h3>
+<a href="https://kowser.online/">
+  <img src="https://img.shields.io/badge/Windows_xp_Portfolio-ffffff"/>
+</a>
+<a href="https://siegecode.com/">
+  <img src="https://img.shields.io/badge/SiegeCode-ffffff"/>
+</a>
+<a href="https://hrm-five-nu.vercel.app/">
+  <img src="https://img.shields.io/badge/HRM System-ffffff"/>
+</a>
+<a href="https://super-shop-ams.vercel.app/">
+  <img src="https://img.shields.io/badge/Accounts management system-ffffff"/>
+</a>
+<a href="https://kazizafor.com/">
+  <img src="https://img.shields.io/badge/Kazi_zafor_portfolio-ffffff"/>
+</a>
+<a href="https://jamanabd.com/">
+  <img src="https://img.shields.io/badge/Multi_Vendor_Ecommerce-ffffff"/>
+</a>
+<a href="https://doctoranwar.com/">
+  <img src="https://img.shields.io/badge/Doctor_Anwar_portfolio-ffffff"/>
+</a>
+<a href="https://jamanagroup.com/">
+  <img src="https://img.shields.io/badge/Group of company Website-ffffff"/>
+</a>
+<a href="https://nusheba.com/">
+  <img src="https://img.shields.io/badge/nu sheba-ffffff"/>
+</a>
+<a href="https://www.figma.com/design/nAOTsTdospFKjnn3UMFXzm/BiolinkV3?node-id=1501-30043&t=WRQTYkrtQlBqJEcb-1">
+  <img src="https://img.shields.io/badge/Biolink-ffffff"/>
+</a>
+<a href="https://tcb.global/">
+  <img src="https://img.shields.io/badge/tcb global-ffffff"/>
+</a>
+<a href="https://allcalculator.cloud/">
+  <img src="https://img.shields.io/badge/Cloud Calculators-ffffff"/>
+</a>
+
+
+
+<h3 align="left">🛩️ Current Projects</h3>
+<a href="https://pricelytic-ai.vercel.app/">
+  <img src="https://img.shields.io/badge/Pricelytic_ai-ffffff?"/>
+</a>
+<a href="https://jamanasupershop.xyz/">
+  <img src="https://img.shields.io/badge/Super_shop_Management_system-ffffff?"/>
+</a> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
