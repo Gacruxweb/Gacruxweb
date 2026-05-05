@@ -49,14 +49,13 @@
 
 
 ## 💼 Featured Projects
-🔹 E-commerce Platform– Multi-vendor system with wallet & commission logic  
-🔹 Portfolio Website– High-converting personal brand site  
-🔹 HRM System– Employee & business management dashboard  
-🔹 Bio Link Tool– Smart link-sharing platform  
+<a href="YOUR_LINK_HERE">
+  <img src="https://img.shields.io/badge/YOUR_TEXT_kowser-HERE_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
+
  
- 
- 
+<!-- <br/> 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
+</p> -->
 
