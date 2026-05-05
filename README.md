@@ -111,23 +111,23 @@
 
 <!-- <h3 align="left">💼 Featured Projects</h3>
 
-##### [Windows XP Portfolio](https://kowser.online/):Personal portfolio website showcasing your work, skills, and services
-##### [SiegeCode](https://siegecode.com/): Scalable web development platform focused on modern digital solutions
-##### [HRM System](https://hrm-five-nu.vercel.app/): Human resource management system for handling employees and operations
-##### [Accounts Management System](https://super-shop-ams.vercel.app/): Accounting system for managing financial data, transactions, and reports
-##### [Kazi Zafor Portfolio](https://kazizafor.com/): Professional portfolio website for personal branding and online presence
-##### [Multi Vendor Ecommerce](https://jamanabd.com/): Ecommerce platform supporting multiple vendors with full marketplace features
-##### [Doctor Anwar Portfolio](https://doctoranwar.com/): Personal portfolio website for showcasing medical services and profile
-##### [Group of Company Website](https://jamanagroup.com/): Corporate website representing multiple businesses and services
-##### [Nu Sheba](https://nusheba.com/): Digital service platform focused on user experience and online solutions
-##### [Biolink](https://www.figma.com/design/nAOTsTdospFKjnn3UMFXzm/BiolinkV3?node-id=1501-30043&t=WRQTYkrtQlBqJEcb-1/): UI/UX design for a modern bio link and profile management system
-##### [TCB Global](https://tcb.global/): Global business website for showcasing services and company information
-##### [Cloud Calculators](https://allcalculator.cloud/): Online platform offering multiple financial and utility calculators
+###### [Windows XP Portfolio](https://kowser.online/):Personal portfolio website showcasing your work, skills, and services
+###### [SiegeCode](https://siegecode.com/): Scalable web development platform focused on modern digital solutions
+###### [HRM System](https://hrm-five-nu.vercel.app/): Human resource management system for handling employees and operations
+###### [Accounts Management System](https://super-shop-ams.vercel.app/): Accounting system for managing financial data, transactions, and reports
+###### [Kazi Zafor Portfolio](https://kazizafor.com/): Professional portfolio website for personal branding and online presence
+###### [Multi Vendor Ecommerce](https://jamanabd.com/): Ecommerce platform supporting multiple vendors with full marketplace features
+###### [Doctor Anwar Portfolio](https://doctoranwar.com/): Personal portfolio website for showcasing medical services and profile
+###### [Group of Company Website](https://jamanagroup.com/): Corporate website representing multiple businesses and services
+###### [Nu Sheba](https://nusheba.com/): Digital service platform focused on user experience and online solutions
+###### [Biolink](https://www.figma.com/design/nAOTsTdospFKjnn3UMFXzm/BiolinkV3?node-id=1501-30043&t=WRQTYkrtQlBqJEcb-1/): UI/UX design for a modern bio link and profile management system
+###### [TCB Global](https://tcb.global/): Global business website for showcasing services and company information
+###### [Cloud Calculators](https://allcalculator.cloud/): Online platform offering multiple financial and utility calculators
 
 
 <h3 align="left">🛩️ Current Projects</h3>
 
-##### [Pricelytic AI](https://pricelytic-ai.vercel.app/): AI-based pricing analysis tool for smarter decision making
-##### [Super Shop Management System](https://jamanasupershop.xyz/): Complete retail management system for sales, inventory, and operations -->
-
+###### [Pricelytic AI](https://pricelytic-ai.vercel.app/): AI-based pricing analysis tool for smarter decision making
+###### [Super Shop Management System](https://jamanasupershop.xyz/): Complete retail management system for sales, inventory, and operations
+ -->
 
