@@ -21,13 +21,25 @@
   </a>
 </p>
 
-
-
-## 🧠 About Me
+<h3 align="center">🧠 About Me</h3>
 - 🔥 I build **conversion-focused websites & applications**
 - 🎯 in **UI/UX design with performance-first development**
 - 💼 Helping startups & businesses create **scalable digital products**
 - 🌍 Based in Bangladesh, working worldwide
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" />
+</p>
+
+
 
 ---
 
