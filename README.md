@@ -22,10 +22,15 @@
 </p>
 
 <h3 align="center">🧠 About Me</h3>
-- 🔥 I build **conversion-focused websites & applications**
-- 🎯 in **UI/UX design with performance-first development**
-- 💼 Helping startups & businesses create **scalable digital products**
-- 🌍 Based in Bangladesh, working worldwide
+
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
+  <p align="center">
+    🔥 I build conversion-focused websites & applications | 🎯 in UI/UX design with performance-first development
+  </p>
+    <p align="center">
+    💼 Helping startups & businesses create - scalable digital products | 🌍 Based in Bangladesh, working worldwide
+  </p>
+</div>
 
 
 <p align="center">
