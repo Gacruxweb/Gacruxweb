@@ -53,7 +53,7 @@
 </p>
 
 <!--Start ui ux essentials-->
-<img width="1200" height="370" alt="ui ux essentials" src="https://github.com/user-attachments/assets/9fbbb027-1f1b-47c1-9519-d1e4fbcd2c4a" />
+<img width="1200" height="370" alt="ui ux essentials" src="https://github.com/user-attachments/assets/7e5c11ae-8dca-412a-990b-35cf05fcd00c" />
 <!-- End ui ux essentials-->
 
 
