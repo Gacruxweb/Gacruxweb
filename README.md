@@ -68,7 +68,7 @@
 <a href="https://hrm-five-nu.vercel.app/">
   <img src="https://img.shields.io/badge/HRM System-eab308?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
 </a>
-<a href="https://super-shop-ams.vercel.app/">
+<a href="https://ams-cloud-ledger.vercel.app/">
   <img src="https://img.shields.io/badge/Accounts management system-fb923c?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
 </a>
 <a href="https://kazizafor.com/">
