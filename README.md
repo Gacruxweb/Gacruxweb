@@ -105,6 +105,9 @@
 <a href="https://jamanasupershop.xyz/">
   <img src="https://img.shields.io/badge/Super_shop_Management_system-9f1239?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
 </a>
+<a href="https://agentic-os-pi.vercel.app/">
+  <img src="https://img.shields.io/badge/Agentic_OS-2563eb?style=for-the-badge&logo=LOGO_NAME&logoColor=white"/>
+</a>
 
 <!-- End Colourfull Project Section -->
 
